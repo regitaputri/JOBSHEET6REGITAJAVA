@@ -1,0 +1,8 @@
+run:
+Masukkan nilai a : 5
+Masukkan nilai b :10
+
+NIlai variabel yang ada pada program 
+a = 5
+b = 10
+BUILD SUCCESSFUL (total time: 5 seconds)

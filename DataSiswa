@@ -1,0 +1,12 @@
+run:
+## DATA SISWA SMK TELKOM MALANG ###
+Nama Siswa: regita
+Alamat: jombang
+Absen: 35
+Usia: 15
+---------------------
+Nama Siswa: regita
+Alamat: jombang
+Absen: 35
+Usia: 15 tahun
+BUILD SUCCESSFUL (total time: 12 seconds)
